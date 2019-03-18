@@ -1,6 +1,6 @@
 {
-    "name": "locii/jquery-plugin-circliful",
-    "description": "jQuery circle statistic plugin",
+    "name": "jquery-plugin-circliful",
+    "description": "Fork of jQuery circle statistic plugin",
     "require": {
         "jQuery": "^1.6"
     }
